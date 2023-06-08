@@ -1,5 +1,6 @@
 # gooOS
-![gooOS](icon.png | width=400x400)
+
+![gooOS](icon.png)
 
 
 
